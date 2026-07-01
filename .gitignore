@@ -8,3 +8,4 @@ dataset/
 
 *.zip
 *.rar
+best_deit_base.pth
